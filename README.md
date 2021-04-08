@@ -1,5 +1,5 @@
 # MAGENTO 2 PAYMENT INTEGRATION BY NOVALNET
-The Magento 2 Payment Gateway by Novalnet enables secure integration of payments and payment services for all Magento 2 shops. The full-service platform allow merchant to <a href="https://www.novalnet.de/produkte"> automate payment processing</a>, enrich customer experiences and improve conversion rate through one interface and one contract partner.
+The <a href="https://www.novalnet.com/modul/magento-2-payment">Magento</a> 2 Payment Gateway by Novalnet enables secure integration of payments and payment services for all Magento 2 shops. The full-service platform allow merchant to <a href="https://www.novalnet.de/produkte"> automate payment processing</a>, enrich customer experiences and improve conversion rate through one interface and one contract partner.
 
 ## Integration requirements 
 Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Magento 2 Payment Gateway. The module is available for the magento versions 2.3.0 to 2.4.2 in the following languages: EN & DE
@@ -74,8 +74,7 @@ For detailed documentation and other technical inquiries, please send us an emai
  ```
  
  ## Installation through Marketplace
- - Go to the Magento Marketplace </a>
- - Signup or login using your user credentials
+ - Signup or login in the <<a href="https://marketplace.magento.com/">Magento Marketplace </a>
  - Purchase the <a href="https://marketplace.magento.com/novalnet-module-payment.html"> Magento payment extension </a> by Novalnet for free
  - Upload the package content into the root directory
  - Upgrade, compile and deploy as explained in the section above
