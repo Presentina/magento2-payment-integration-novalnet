@@ -1,10 +1,10 @@
-# MAGENTO 2 PAYMENT INTEGRATION BY NOVALNET
+# MAGENTO 2 PAYMENT INTEGRATION
 The <a href="https://www.novalnet.com/modul/magento-2-payment">Magento 2 </a> Payment Gateway by Novalnet enables secure integration of payments and payment services for all Magento 2 shops. The full-service platform allow merchant to <a href="https://www.novalnet.de/produkte"> automate payment processing</a>, enrich customer experiences and improve conversion rate through one interface and one contract partner.
 
-## Integration requirements 
+## Integration requirements for Magento 2 extension
 Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Magento 2 Payment Gateway. The module is available for the magento versions 2.3.0 to 2.4.2 in the following languages: EN & DE
 
-## Key features 
+## Key features of Magento 2 extension
 -	Easy configuration of all international & local payment methods
 - One PCI DSS certified payment platform for all payment services from checkout to collection
 -	Complete automation of all payment processes
@@ -74,10 +74,10 @@ For detailed documentation and other technical inquiries, please send us an emai
  ```
  
  ## Installation through Marketplace
- - Signup or login in the <<a href="https://marketplace.magento.com/">Magento Marketplace </a>
- - Purchase the <a href="https://marketplace.magento.com/novalnet-module-payment.html"> Magento payment extension </a> by Novalnet for free
- - Upload the package content into the root directory
- - Upgrade, compile and deploy as explained in the section above
+ ✅ Signup or login in the <a href="https://marketplace.magento.com/"> Magento Marketplace </a> </br>
+ ✅ Purchase the <a href="https://marketplace.magento.com/novalnet-module-payment.html"> Magento payment extension </a> by Novalnet for free<br>
+ ✅ Upload the package content into the root directory<br>
+ ✅ Upgrade, compile and deploy as explained in the section above<br>
 
 
 ## License  
@@ -90,7 +90,7 @@ Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
 Feringastr. 4<br>
 85774 Unterföhring<br>
-Deutschland<br>
+Deutschland :de: <br>
 Website: www.novalnet.de 
 
 ## Who is Novalnet AG?
