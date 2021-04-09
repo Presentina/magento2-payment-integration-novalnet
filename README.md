@@ -1,10 +1,10 @@
 # FREE MAGENTO 2 PAYMENT EXTENSION
 The <a href="https://www.novalnet.com/modul/magento-2-payment">Magento 2 </a> Payment Gateway by Novalnet enables secure integration of payments and payment services for all Magento 2 shops. The full-service platform allow merchant to <a href="https://www.novalnet.de/produkte"> automate payment processing</a>, enrich customer experiences and improve conversion rate through one interface and one contract partner.
 
-## Integration requirements for Magento 2 extension
+## 🔗 Integration requirements for Magento 2 extension
 Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required for processing all international and local payments through this Magento 2 Payment Gateway. The module is available for the <a href="https://magento.com/">magento versions 2.3.0 to 2.4.2 </a> in the following languages: EN & DE
 
-## Key features of Magento 2 extension
+## 🏷️ Key features of Magento 2 extension
 -	Easy configuration of all international & local payment methods
 - One PCI DSS certified payment platform for all payment services from checkout to collection
 -	Complete automation of all payment processes
@@ -28,11 +28,11 @@ Novalnet <a href="https://www.novalnet.de/"> merchant account </a> is required f
 
 For detailed documentation and other technical inquiries, please send us an email at <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
-## Demo shop
+## 🛒Demo shop
 
 <a href="https://www.novalnet.de/modul/magento-2-payment/"> See here </a> for our link to demo magento 2 store. Place your orders and test our trial checkout processes using our test credentials available in the login page of the <a href="https://magento2.novalnet.de/"> demo magento store </a>.
 
-## Integrated payment methods
+## 💲 Integrated payment methods
 -	Direct Debit SEPA
 -	Credit/Debit Cards 
 -	Invoice 
@@ -53,7 +53,7 @@ For detailed documentation and other technical inquiries, please send us an emai
 - Bancontact
 - Multibanco
 
-## Installation of free Magento 2 extension via Composer
+## ⚙️ Installation of free Magento 2 extension via Composer
 
 #### Follow the below steps and run each command from the shop root directory
  ##### 1. Run the below command to install the payment module
@@ -73,17 +73,17 @@ For detailed documentation and other technical inquiries, please send us an emai
  php bin/magento setup:static-content:deploy -f
  ```
  
- ## Installation through Marketplace
+ ## ⚓ Installation through Marketplace
  ✅ Signup or login in the <a href="https://marketplace.magento.com/"> Magento Marketplace </a> </br>
  ✅ Purchase the <a href="https://marketplace.magento.com/novalnet-module-payment.html"> Magento payment extension </a> by Novalnet for free<br>
  ✅ Upload the package content into the root directory<br>
  ✅ Upgrade, compile and deploy as explained in the section above<br>
 
 
-## License  
+## 📝 License  
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
-## Documentation & Support
+## 📲 Documentation & Support
 For more information about the Magento 2 Payment Integration, for support requests and for bug reporting, please contact us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
