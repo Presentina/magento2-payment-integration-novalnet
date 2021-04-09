@@ -1,4 +1,4 @@
-# MAGENTO 2 PAYMENT INTEGRATION
+# FREE MAGENTO 2 PAYMENT EXTENSION
 The <a href="https://www.novalnet.com/modul/magento-2-payment">Magento 2 </a> Payment Gateway by Novalnet enables secure integration of payments and payment services for all Magento 2 shops. The full-service platform allow merchant to <a href="https://www.novalnet.de/produkte"> automate payment processing</a>, enrich customer experiences and improve conversion rate through one interface and one contract partner.
 
 ## Integration requirements for Magento 2 extension
@@ -53,7 +53,7 @@ For detailed documentation and other technical inquiries, please send us an emai
 - Bancontact
 - Multibanco
 
-## Installation via Composer
+## Installation of free Magento 2 extension via Composer
 
 #### Follow the below steps and run each command from the shop root directory
  ##### 1. Run the below command to install the payment module
@@ -84,13 +84,13 @@ For detailed documentation and other technical inquiries, please send us an emai
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
 ## Documentation & Support
-For more information about the Magento 2 Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+For more information about the Magento 2 Payment Integration, for support requests and for bug reporting, please contact us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
 Feringastr. 4<br>
 85774 Unterföhring<br>
-Deutschland :de: <br>
+Deutschland <br>
 Website: www.novalnet.de 
 
 ## Who is Novalnet AG?
